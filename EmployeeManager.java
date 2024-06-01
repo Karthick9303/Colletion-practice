@@ -33,9 +33,9 @@ public class EmployeeManager
         EmployeeManager manager = new EmployeeManager();
 
         // Adding employees
-        Employee emp1 = new Employee(1, "Alice", "Engineering", 75000);
-        Employee emp2 = new Employee(2, "Bob", "HR", 55000);
-        Employee emp3 = new Employee(3, "Charlie", "Marketing", 60000);
+        Employee emp1 = new Employee(1, "Raja", "Engineering", 75000);
+        Employee emp2 = new Employee(2, "Bharath", "TL", 55000);
+        Employee emp3 = new Employee(3, "Sethu", "Marketing", 60000);
 
         manager.addEmployee(emp1);
         manager.addEmployee(emp2);
